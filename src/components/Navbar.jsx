@@ -9,7 +9,8 @@ export default function Navbar() {
     return (
         <div className='w-full h-[80px] bg-green-500 flex justify-between items-center '>
             <div>
-                <h1 className='font-bold '>🌍 Travel Guide  </h1>
+                <h1 className='font-bold  '>🌍 Travel Guide  </h1>
+                <h1></h1>
             </div>
             <div >
                 <ul className='flex justify-center items-center gap-4 pr-5'>
